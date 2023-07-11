@@ -74,6 +74,7 @@ int main()
 		HugeReal B = (*his_2[b]);
 		HugeReal answer = A - B;
 	}
+	//kkjk
 	else if (choice == 3)
 	{
 		int a = 0, b = 0;
