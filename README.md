@@ -141,8 +141,6 @@ MIT License - See [LICENSE](LICENSE) for details
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Contact 📧
-- Author: Your Name
-- Email: your.email@example.com
 - Issues: [GitHub Issues](https://github.com/yourusername/HugeReal/issues)
 
 ---
